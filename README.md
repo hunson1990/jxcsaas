@@ -1,4 +1,4 @@
-### 进销存多仓库多门店管理系统（saas版）
+### 进销存多仓库多门店管理系统（saas版）springboot，vue技术栈（可OEM贴牌）
 访问地址： http://jxc.tao51d.com
 
 开发语言：后端java，前端vue elementui

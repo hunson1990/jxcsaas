@@ -39,7 +39,7 @@
 
 部分截图如下：
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0901/101934_9cac1973_2297150.png "屏幕截图.png")
+![输入图片说明](https://github.com/hunson1990/jxcsaas/blob/master/1.png?raw=true "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0901/101957_9ec225f2_2297150.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0901/102037_a4b4832e_2297150.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0901/102101_d094dc12_2297150.png "屏幕截图.png")
